@@ -44,3 +44,5 @@ Additional Technical Features:
 
 ❌ Clean and user-friendly application shutdown handling
 
+🔗 GitHub Repository:
+https://github.com/MaryamAlsaeed/Supermarket-system
