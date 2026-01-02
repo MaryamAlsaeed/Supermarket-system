@@ -1,22 +1,20 @@
-Supermarket Management Application
+Supermarket Management system
 (C# – Windows Forms)
 
-Associated with: University Object-Oriented Programming (OOP) Course
-
-Developed a conceptual supermarket management application using C# (Windows Forms) as part of an academic OOP course.
-This project was designed to demonstrate core object-oriented programming principles through a structured and practical application, rather than simulating a real-world commercial system.
+Developed a conceptual Supermarket Management Application using C# (Windows Forms) as part of a university course on Object-Oriented Programming (OOP).
+This academic project was designed to demonstrate core OOP principles through a structured, practical application rather than to simulate a real-world commercial system.
 
 Application Overview:
-🛒 The supermarket is divided into three main sections:
-* Dairy
-* Meat
-* Groceries
+The supermarket is divided into three main sections: 🛒
+• Dairy
+• Meat
+• Groceries
 
 🛠️ Core functionalities include:
-* Adding single and multiple products
-* Adding items to a shopping cart
-* Resetting the system state
-* Multi-form user interface with clear and intuitive navigation
+• Adding single and multiple products
+• Adding items to a shopping cart
+• Resetting the system state
+• Multi-form user interface with clear and intuitive navigation
 
 Object-Oriented Programming Concepts Applied:
 🔐 Encapsulation – Secure handling of application data using private fields and controlled public methods
